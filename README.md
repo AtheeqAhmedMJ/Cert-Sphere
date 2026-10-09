@@ -1,4 +1,4 @@
-# Bulk Certificate Generator
+# Cert Sphere - A Bulk Certificate Generator
 
 A small FastAPI service. You give it a list of recipients, either as JSON or as a CSV file, it generates a PDF certificate for each one in the background, and you poll the job to see how it's going and download the results.
 
